@@ -1,4 +1,4 @@
-from collections import defaultdict
+from collections import defaultdict,Counter
 class Solution:
     def largestUniqueNumber(self, nums: List[int]) -> int:
         c = collections.Counter(nums)
