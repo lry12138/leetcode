@@ -20,4 +20,13 @@
 [1832. Check if the Sentence Is Pangram](python/Check_if_the_Sentence_Is_Pangram.py)  
 [2225. Find Players With Zero or One Losses](python/Find_Players_With_Zero_or_One_Losses.py)  
 
+## Arrays and Strings 
+### Two Pointer 
+[283. Move Zeroes](python/Move_Zeroes.py)  
+[344. Reverse String](python/Reverse_String.py)  
+[557. Reverse Words in a String III](python/Reverse_Words_in_a_String_III.py)  
+[917. Reverse Only Letters](python/Reverse_Only_Letters.py)  
+[977. Squares of a Sorted Array](python/Squares_of_a_Sorted_Array.py)  
+[2000. Reverse Prefix of Word](python/Reverse_Prefix_of_Word.py)
+
 
