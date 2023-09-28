@@ -27,6 +27,13 @@
 [557. Reverse Words in a String III](python/Reverse_Words_in_a_String_III.py)  
 [917. Reverse Only Letters](python/Reverse_Only_Letters.py)  
 [977. Squares of a Sorted Array](python/Squares_of_a_Sorted_Array.py)  
-[2000. Reverse Prefix of Word](python/Reverse_Prefix_of_Word.py)
+[2000. Reverse Prefix of Word](python/Reverse_Prefix_of_Word.py)  
+
+### Sliding Window
+[643. Maximum Average Subarray I](python/Maximum_Average_Subarray_I.py)  
+[1004. Max Consecutive Ones III](python/Max_Consecutive_Ones_III.py)  
+[1208. Get Equal Substrings Within Budget](python/Get_Equal_Substrings_Within_Budget.py)  
+[1456. Maximum Number of Vowels in a Substring of Given Length](python/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py)  
+
 
 
