@@ -35,5 +35,17 @@
 [1208. Get Equal Substrings Within Budget](python/Get_Equal_Substrings_Within_Budget.py)  
 [1456. Maximum Number of Vowels in a Substring of Given Length](python/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py)  
 
+### Prefix Sum
+[303. Range Sum Query - Immutable](python/Range_Sum_Query-Immutable.py)  
+[724. Find Pivot Index](python/Find_Pivot_Index.py)  
+[1413. Minimum Value to Get Positive Step by Step Sum](python/Minimum_Value_to_Get_Positive_Step_by_Step_Sum.py)  
+[1480. Running Sum of 1d Array](python/Running_Sum_of_1d_Array.py)  
+[1732. Find the Highest Altitude](python/Find_the_Highest_Altitude.py)  
+
+
+
+
+
+
 
 
