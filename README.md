@@ -22,11 +22,12 @@
 
 ## Arrays and Strings 
 ### Two Pointer 
+[125. Valid Palindrome](python/Valid_Palindrome.py)  
 [283. Move Zeroes](python/Move_Zeroes.py)  
 [344. Reverse String](python/Reverse_String.py)  
 [557. Reverse Words in a String III](python/Reverse_Words_in_a_String_III.py)  
 [917. Reverse Only Letters](python/Reverse_Only_Letters.py)  
-[977. Squares of a Sorted Array](python/Squares_of_a_Sorted_Array.py)  
+[977. Squares of a Sorted Array](python/Squares_of_a_Sorted_Array.py) 
 [2000. Reverse Prefix of Word](python/Reverse_Prefix_of_Word.py)  
 
 ### Sliding Window
