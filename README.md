@@ -3,6 +3,7 @@
 
 ## Hashing
 [1. Two Sum](python/Two_Sum.py)   
+[169. Majority Element](python/Majority_Element.py)  
 [217. Contains Duplicate](python/Contains_Duplicate.py)  
 [268. Missing Number](python/Missing_Number.py)  
 [383. Ransom Note](python/Ransom_Note.py)  
@@ -22,6 +23,7 @@
 
 ## Arrays and Strings 
 ### Two Pointer 
+[118. Pascal's Triangle](python/Pascal's_Triangle.py)  
 [125. Valid Palindrome](python/Valid_Palindrome.py)  
 [283. Move Zeroes](python/Move_Zeroes.py)  
 [344. Reverse String](python/Reverse_String.py)  
@@ -31,6 +33,7 @@
 [2000. Reverse Prefix of Word](python/Reverse_Prefix_of_Word.py)  
 
 ### Sliding Window
+[121. Best Time to Buy and Sell Stock](python/Best_Time_to_Buy_and_Sell_Stock.py)  
 [643. Maximum Average Subarray I](python/Maximum_Average_Subarray_I.py)  
 [1004. Max Consecutive Ones III](python/Max_Consecutive_Ones_III.py)  
 [1208. Get Equal Substrings Within Budget](python/Get_Equal_Substrings_Within_Budget.py)  
