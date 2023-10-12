@@ -48,11 +48,11 @@
 
 ## Binary Trees
 ### DFS
-[100. Same Tree](python/Same_Tree.py)
-[111. Minimum Depth of Binary Tree](python/Minimum_Depth_of_Binary_Tree.py)
-[226. Invert Binary Tree](python/Invert_Binary_Tree.py)
-[872. Leaf-Similar Trees](python/Leaf-Similar_Trees.py)
-[1325. Delete Leaves With a Given Value](python/Delete_Leaves_With_a_Given_Value.py)
+[100. Same Tree](python/Same_Tree.py)  
+[111. Minimum Depth of Binary Tree](python/Minimum_Depth_of_Binary_Tree.py)  
+[226. Invert Binary Tree](python/Invert_Binary_Tree.py)  
+[872. Leaf-Similar Trees](python/Leaf-Similar_Trees.py)  
+[1325. Delete Leaves With a Given Value](python/Delete_Leaves_With_a_Given_Value.py)  
 
 
 
