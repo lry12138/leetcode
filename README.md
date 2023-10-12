@@ -54,6 +54,14 @@
 [872. Leaf-Similar Trees](python/Leaf-Similar_Trees.py)  
 [1325. Delete Leaves With a Given Value](python/Delete_Leaves_With_a_Given_Value.py)  
 
+### BFS
+[102. Binary Tree Level Order Traversal](python/Binary_Tree_Level_Order_Traversal)  
+[103. Binary Tree Zigzag Level Order Traversal](python/Binary_Tree_Zigzag_Level_Order_Traversal.py)  
+[637. Average of Levels in Binary Tree](python/Average_of_Levels_in_Binary_Tree.py)  
+[1161. Maximum Level Sum of a Binary Tree](python/Maximum_Level_Sum_of_a_Binary_Tree.py)
+[1302. Deepest Leaves Sum](python/Deepest_Leaves_Sum.py)  
+[1609. Even Odd Tree](python/Even_Odd_Tree.py)  
+
 
 
 
